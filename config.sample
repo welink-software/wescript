@@ -1,0 +1,4 @@
+export WE_PHP_VERSION="latest"
+export WE_NODE_VERSION="latest"
+export WE_COMPOSER_VERSION="latest"
+export WE_HUGO_VERSION="latest"
