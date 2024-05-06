@@ -33,7 +33,7 @@ This project uses a Makefile to automate the setup and removal of the `we` comma
 
 1. Clone the repository:
    ```bash
-   git clone ssh://git@git.welink.ro:2424/project/internal/tools/wescript.git ~/.wescript
+   git clone <project_repository_path> ~/.wescript
 
 2. Copy the config sample file and modify it to your needs:
    ```bash
